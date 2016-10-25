@@ -1,0 +1,20 @@
+GIF89aH  ?      3  f  ? ? ÿ +  +3 +f +?+?+ÿ U  U3 Uf U?U?Uÿ €  €3 €f €?€?€ÿ ? ? ªf ª™ ªÌ ? ? ? Õf Õ™ ÕÌ ? ÿ  ÿ3 ÿf ÿ?ÿ?ÿÿ3  3 33 f3 ? ? ÿ3+ 3+33+f3+?+?+ÿ3U 3U33Uf3U?U?Uÿ3€ 3€33€f3€?€?€ÿ3?3?3ªf3ª™3ªÌ3?3?3?3Õf3Õ™3ÕÌ3?3ÿ 3ÿ33ÿf3ÿ?ÿ?ÿÿf  f 3f ff ™f Ìf ÿf+ f+3f+ff+™f+Ìf+ÿfU fU3fUffU™fUÌfUÿf€ f€3f€ff€™f€Ìf€ÿf?f?fªffª™fªÌf?f?f?fÕffÕ™fÕÌf?fÿ fÿ3fÿffÿ™fÿÌfÿÿ? ?3?f?™™ Ì™ ÿ? ?3?f?™™+Ì™+ÿ™U ™U3™Uf™U™™UÌ™Uÿ™€ ™€3™€f™€™™€Ì™€ÿ™ª ™ª3™ªf™ª™™ªÌ™ªÿ™Õ ™Õ3™Õf™Õ™™ÕÌ™Õÿ? ?3?f?™™ÿÌ™ÿÿ? ?3?f?™Ì ÌÌ ÿ? ?3?f?™Ì+ÌÌ+ÿÌU ÌU3ÌUfÌU™ÌUÌÌUÿÌ€ Ì€3Ì€fÌ€™Ì€ÌÌ€ÿÌª Ìª3ÌªfÌª™ÌªÌÌªÿÌÕ ÌÕ3ÌÕfÌÕ™ÌÕÌÌÕÿ? ?3?f?™ÌÿÌÌÿÿÿ  ÿ 3ÿ fÿ ? ? ÿÿ+ ÿ+3ÿ+fÿ+?+?+ÿÿU ÿU3ÿUfÿU?U?Uÿÿ€ ÿ€3ÿ€fÿ€?€?€ÿÿ?ÿ?ÿªfÿª™ÿªÌÿ?ÿ?ÿ?ÿÕfÿÕ™ÿÕÌÿ?ÿÿ ÿÿ3ÿÿfÿÿ?ÿ?ÿÿ            !?  ?,    H   ÿ ?Hp Á?*?TÂ‡#B,¨lŸE‹í0r±£Çõ]Ñ¨1ÔÅ]EB?²åGb?Óx$G—ûníÓ×‚¤Ï?éõôigKe-òÀDLc‹¨Œ‚¬·ÏÝO’¡x^pªc??³hmß‹^ï¸DûTªE?!ìk¤ÑFAZšóp4éÅ[%?¸¸?? ÜÎ­[U#–û?°{Q†[bcñXÜrØ¤äÀuÐr•ªïpÍ}¢ov\¦¸#ÒŽ??à´EÑE÷e\?Ä_šoGþŒs?¯‹?‚²?yGáM5¸˜c??h€¼o??­nÿµÝGß”ÂI¶íxhÀãC)‡ÛÑû€§p	$nÙÈ%1M	?pûÀñ–lÑÀ5@u?`“]”Ñ}îìãIk?5GHC?]ƒßEsxÈit?“\$ÚzÑ‘·7n‰Õ‘xM¸žEtA0"w;	W·¥õÛ}yÑ‘y	àÑk?]d=ñöV{$?#c2=Ùã t%UiâÜ]?I¤aDYô•™¹=g?C1?1?ÞmT?	?W?(?‰ç“•tvàETy$š\‡ˆFd1œH…ŽEyýIèE<`Jžw??z•Zá“hk.?–Ey¬›?€èª™a?F??îAÖ‹b$Ìª3t7f?!‰ë?ùª?%?N´´ËEÎàäÄE˜íÃ€TÃBK?ªá$íE4c®b‚à*?á^4
+†eY´À?©ÐZ5úõ?tV—h ÁpQ?óŸÃ˜a¦&”Œ&9??
+DñÃ˜}ñ@ÃX<??TrB ;
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+	<HEAD>
+		<title>CheckCode</title><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" content="Visual Basic .NET 7.1">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+	</HEAD>
+	<body MS_POSITIONING="GridLayout">
+		<form name="Form1" method="post" action="CheckCode.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwtNjU0MzcyMTk1Ozs+xH6R/VMgVeD8+5qI7smz+LquOds=" />
+
+			<FONT face="ËÎÌå"></FONT>
+		</form>
+	</body>
+</HTML>

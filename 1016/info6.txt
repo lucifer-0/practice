@@ -1,0 +1,12 @@
+学期</a></td><td><a href="javascript:__doPostBack('Datagrid1$_ctl1$_ctl2','')">课程代码</a></td><td><a href="javascript:__doPostBack('Datagrid1$_ctl1$_ctl3','')">课程名称</a></td><td>课程性质</td><td>课程归属</td><td>学分</td><td>绩点</td><td>成绩</td><td>辅修标记</td><td>补考成绩</td><td>重修成绩</td>
+<td>电路电子学</td><td>必修课</td><td>&nbsp;</td><td>3.0</td><td>   1.0</td><td>26</td><td>0</td><td>60</td><td>&nbsp;</td>
+<td>大学英语2</td><td>必修课</td><td>&nbsp;</td><td>3.5</td><td>   2.7</td><td>77</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>JAVA程序设计</td><td>必修课</td><td>&nbsp;</td><td>3.5</td><td>   3.7</td><td>87</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>数据结构</td><td>必修课</td><td>&nbsp;</td><td>3.0</td><td>   0.0</td><td>47</td><td>0</td><td>48</td><td>&nbsp;</td>
+<td>认识实习</td><td>必修课</td><td>&nbsp;</td><td>1.0</td><td>   2.5</td><td>中等</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>程序设计综合实训</td><td>必修课</td><td>&nbsp;</td><td>2.0</td><td>   3.5</td><td>良好</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>高等数学2</td><td>必修课</td><td>&nbsp;</td><td>5.0</td><td>   0.0</td><td>20</td><td>0</td><td>0</td><td>&nbsp;</td>
+<td>大学物理A1</td><td>必修课</td><td>&nbsp;</td><td>2.5</td><td>   1.1</td><td>61</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>大学物理实验1</td><td>必修课</td><td>&nbsp;</td><td>0.5</td><td>   1.5</td><td>及格</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>中国近现代史纲要</td><td>必修课</td><td>&nbsp;</td><td>2.0</td><td>   3.6</td><td>86</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>体育2</td><td>必修课</td><td>&nbsp;</td><td>1.0</td><td>   3.5</td><td>良好</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td>

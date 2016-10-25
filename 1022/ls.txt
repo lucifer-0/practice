@@ -1,0 +1,47 @@
+#自己写的真的垃圾。。。
+#唉，program，路漫漫其修远兮
+#主要是特么写不出来。。。QAQ
+import os
+import optparse
+import time
+import datetime
+
+
+def main():
+    usage = "usage: %prog [options] [path1 [path2 [...pathN]]]"
+    parser = optparse.OptionParser(usage=usage)
+    parser.add_option("-H", "--hidden", dest="hidden", default=False,
+                      help="show hidden files [default: off]")
+    parser.add_option("-m", "--modified", action="callbhack", dest="modified", default=False,
+                      help="show last modified data/time [default: off]")
+    parser.add_option("-o", "--order", dest="ORDER", default="name",
+                      help="order by ('name', 'n', 'modified', 'm', 'size', 's')"
+                      " [default: %default]")
+    parser.add_option("-r", "--recursive", dest="recursive", default=False,
+                      help="recurse into subdirectories [default: off]")
+    parser.add_option("-s", "--sizes", dest="sizes", default=False,
+                      help="show sizes [default: off]")
+    (options, args) = parser.parse_args()
+
+
+def show_hidden():
+    pass
+
+
+def show_modified(path):
+    date_from_name = {}
+    for name in os.listdir(path):
+        size = os.path.getsize(name)
+        print(size)
+        fullname = os.path.join(path, name)
+        if os.path.isfile(fullname):
+            file_time = os.path.getmtime(fullname)
+            date = datetime.datetime.fromtimestamp(file_time)
+            date_from_name[fullname] = date.strftime("%Y-%m-%d %H:%M:%S")
+    for key in date_from_name:
+        print(key, date_from_name[key])
+
+if __name__ == "__main__":
+    #main()
+    show_modified(".")
+                      

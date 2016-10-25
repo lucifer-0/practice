@@ -1,0 +1,76 @@
+现代教学管理信息系统
+
+
+
+
+<span id="Label1">学年:</span>
+
+2015-2016
+
+学期</span>
+
+1
+2
+3
+课程性质</span>
+必修课
+选修课
+校公选
+校选俢课
+
+
+<em></em>
+<input type="submit" name="btn_xq" value="学期成绩" id="btn_xq" class="button" /><input type="submit" name="btn_xn" value="学年成绩" id="btn_xn" class="button" /><input type="submit" name="btn_zcj" value="历年成绩" id="btn_zcj" class="button" /><input type="submit" name="btn_zg" value="课程最高成绩" id="btn_zg" class="button" /><input type="submit" name="Button2" value="未通过成绩" id="Button2" class="button" /><input type="submit" name="Button1" value="成绩统计" id="Button1" class="button" />
+<em></em>
+<em></em>
+
+<span id="lbl_bt"><b><font size="4">2015-2016学年第2学期学习成绩</font></b></span>
+<span id="lbl_xh">学号：15408500124</span>
+<span id="lbl_xm">姓名：赵葛登</span>
+<span id="lbl_xy">学院：计算机与通信学院</span>
+<span id="lbl_zy">专业：
+物联网工程</span>
+<span id="lbl_zyfx">专业方向:</span>
+<span id="lbl_xzb">行政班：物联网1501</span>
+
+<a href="javascript:__doPostBack('Datagrid1$_ctl1$_ctl0','')">学年</a></td><td><a href="javascript:__doPostBack('Datagrid1$_ctl1$_ctl1','')">学期</a></td><td><a href="javascript:__doPostBack('Datagrid1$_ctl1$_ctl2','')">课程代码</a></td><td><a href="javascript:__doPostBack('Datagrid1$_ctl1$_ctl3','')">课程名称</a></td><td>课程性质</td><td>课程归属</td><td>学分</td><td>绩点</td><td>成绩</td><td>辅修标记</td><td>补考成绩</td><td>重修成绩</td><td>开课学院</td><td>备注</td><td>重修标记
+
+2015-2016</td><td>2</td><td>01121420</td><td>电路电子学</td><td>必修课</td><td>&nbsp;</td><td>3.0</td><td>   1.0</td><td>26</td><td>0</td><td>60</td><td>&nbsp;</td><td>电气与信息工程学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>06110130</td><td>大学英语2</td><td>必修课</td><td>&nbsp;</td><td>3.5</td><td>   2.7</td><td>77</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>外国语学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>08120032</td><td>JAVA程序设计</td><td>必修课</td><td>&nbsp;</td><td>3.5</td><td>   3.7</td><td>87</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>计算机与通信学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>08120322</td><td>数据结构</td><td>必修课</td><td>&nbsp;</td><td>3.0</td><td>   0.0</td><td>47</td><td>0</td><td>48</td><td>&nbsp;</td><td>计算机与通信学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>08141050</td><td>认识实习</td><td>必修课</td><td>&nbsp;</td><td>1.0</td><td>   2.5</td><td>中等</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>计算机与通信学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>08144650</td><td>程序设计综合实训</td><td>必修课</td><td>&nbsp;</td><td>2.0</td><td>   3.5</td><td>良好</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>计算机与通信学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>11110021</td><td>高等数学2</td><td>必修课</td><td>&nbsp;</td><td>5.0</td><td>   0.0</td><td>20</td><td>0</td><td>0</td><td>&nbsp;</td><td>理学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>11110091</td><td>大学物理A1</td><td>必修课</td><td>&nbsp;</td><td>2.5</td><td>   1.1</td><td>61</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>理学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>11140010</td><td>大学物理实验1</td><td>必修课</td><td>&nbsp;</td><td>0.5</td><td>   1.5</td><td>及格</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>理学院</td><td></td><td>
+
+2015-2016</td><td>2</td><td>29110101</td><td>中国近现代史纲要</td><td>必修课</td><td>&nbsp;</td><td>2.0</td><td>   3.6</td><td>86</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>思想政治理论课教学科研部</td><td></td><td>
+
+2015-2016</td><td>2</td><td>30110060</td><td>体育2</td><td>必修课</td><td>&nbsp;</td><td>1.0</td><td>   3.5</td><td>良好</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>体育学院</td><td></td><td>
+
+
+&nbsp;
+
+
+
+
+
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+
+<img id="Image1" src="./excel/15408500124.jpg" alt="学生条形码" border="0" />
+<b></b>
+<em class="footbox_con"><span class="pagination"></span><span class="footbutton">
+</em>
